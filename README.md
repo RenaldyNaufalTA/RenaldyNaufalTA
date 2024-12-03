@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'am Renaldy from Indonesia. I really enjoy learning languages and framework like Laravel and ReactJS.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenaldyNaufalTA)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **RenaldyNaufalTA/RenaldyNaufalTA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
