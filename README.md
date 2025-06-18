@@ -14,7 +14,7 @@ I'am Renaldy passionate software engineer with a strong interest in web developm
 - **Frameworks & Libraries**  
 
   ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-%23341E98.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-%2342b883.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
